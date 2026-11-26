@@ -1,0 +1,6 @@
+Dynamic Programming Patterns
+1. 0/1 Knapsack
+2. Unbounded Knapsack
+3. Longest Common Subsequence
+4. Longest Increasing Subsequence
+5. Matrix Chain Multiplication

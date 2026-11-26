@@ -1,0 +1,3 @@
+Operating Systems Summary
+- FCFS, SJF, Round Robin, Priority Scheduling
+- Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait
